@@ -1,0 +1,10 @@
+# Test strategy 3
+# Check all three players their cycle
+# Check first 53 lines only
+1
+5
+QS 5C QH AD AS JH JD 2S 4D 2C 2H 3S 3D 3C JS 4S 2D 4C 4H 5S 5D KD KC 3H KS AC AH KH JC 5H QC QD
+Player1 3
+Player2 3
+Player3 3
+

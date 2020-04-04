@@ -1,0 +1,141 @@
+
+Turn 1
+Deck: KD KC 3H KS AC AH KH JC 5H QC QD
+Player1: 5C JD JH QH QS AD AS
+Player2: 2C 2H 2S 3C 3D 3S 4D
+Player3: 2D 4C 4H 4S 5D 5S JS
+Player1 asked Player2 for the value A
+
+Turn 2
+Deck: KC 3H KS AC AH KH JC 5H QC QD
+Player1: 5C JD JH QH QS KD AD AS
+Player2: 2C 2H 2S 3C 3D 3S 4D
+Player3: 2D 4C 4H 4S 5D 5S JS
+Player2 asked Player1 for the value 4
+
+Turn 3
+Deck: 3H KS AC AH KH JC 5H QC QD
+Player1: 5C JD JH QH QS KD AD AS
+Player2: 2C 2H 2S 3C 3D 3S 4D KC
+Player3: 2D 4C 4H 4S 5D 5S JS
+Player3 asked Player1 for the value J
+
+Turn 4
+Deck: AC AH KH JC 5H QC QD
+Player1: 3H 5C QH QS KD KS AD AS
+Player2: 2C 2H 2S 3C 3D 3S 4D KC
+Player3: 2D 4C 4H 4S 5D 5S JD JH JS
+Player1 asked Player3 for the value A
+
+Turn 5
+Deck: AH KH JC 5H QC QD
+Player1: 3H 5C QH QS KD KS AC AD AS
+Player2: 2C 2H 2S 3C 3D 3S 4D KC
+Player3: 2D 4C 4H 4S 5D 5S JD JH JS
+Player2 asked Player3 for the value K
+
+Turn 6
+Deck: KH JC 5H QC QD
+Player1: 3H 5C QH QS KD KS AC AD AS
+Player2: 2C 2H 2S 3C 3D 3S 4D KC AH
+Player3: 2D 4C 4H 4S 5D 5S JD JH JS
+Player3 asked Player2 for the value J
+
+Turn 7
+Deck: JC 5H QC QD
+Player1: 3H 5C QH QS KD KS AC AD AS
+Player2: 2C 2H 2S 3C 3D 3S 4D KC AH
+Player3: 2D 4C 4H 4S 5D 5S JD JH JS KH
+Player1 asked Player2 for the value A
+
+Turn 8
+Deck: 5H QC QD
+Player1: 3H 5C QH QS KD KS
+Player2: 2C 2H 2S 3C 3D 3S 4D JC KC
+Player3: 2D 4C 4H 4S 5D 5S JD JH JS KH
+Player2 asked Player1 for the value K
+
+Turn 9
+Deck: QD
+Player1: 3H 5C 5H QC QH QS
+Player2: 2C 2H 2S 3C 3D 3S 4D JC KC KD KS
+Player3: 2D 4C 4H 4S 5D 5S JD JH JS KH
+Player3 asked Player1 for the value K
+
+Turn 10
+Deck: 
+Player1: 3H 5C 5H QC QH QS
+Player2: 2C 2H 2S 3C 3D 3S 4D JC KC KD KS
+Player3: 2D 4C 4H 4S 5D 5S JD JH JS QD KH
+Player1 asked Player3 for the value Q
+
+Turn 11
+Deck: 
+Player1: 3H 5C 5H
+Player2: 2C 2H 2S 3C 3D 3S 4D JC KC KD KS
+Player3: 2D 4C 4H 4S 5D 5S JD JH JS KH
+Player2 asked Player3 for the value K
+
+Turn 12
+Deck: 
+Player1: 3H 5C 5H
+Player2: 2C 2H 2S 3C 3D 3S 4D JC
+Player3: 2D 4C 4H 4S 5D 5S JD JH JS
+Player3 asked Player2 for the value J
+
+Turn 13
+Deck: 
+Player1: 3H 5C 5H
+Player2: 2C 2H 2S 3C 3D 3S 4D
+Player3: 2D 4C 4H 4S 5D 5S
+Player1 asked Player2 for the value 5
+
+Turn 14
+Deck: 
+Player1: 3H 5C 5H
+Player2: 2C 2H 2S 3C 3D 3S 4D
+Player3: 2D 4C 4H 4S 5D 5S
+Player2 asked Player1 for the value 4
+
+Turn 15
+Deck: 
+Player1: 3H 5C 5H
+Player2: 2C 2H 2S 3C 3D 3S 4D
+Player3: 2D 4C 4H 4S 5D 5S
+Player3 asked Player1 for the value 5
+
+Turn 16
+Deck: 
+Player1: 3H
+Player2: 2C 2H 2S 3C 3D 3S 4D
+Player3: 2D 4C 4H 4S
+Player1 asked Player3 for the value 3
+
+Turn 17
+Deck: 
+Player1: 3H
+Player2: 2C 2H 2S 3C 3D 3S 4D
+Player3: 2D 4C 4H 4S
+Player2 asked Player3 for the value 4
+
+Turn 18
+Deck: 
+Player1: 3H
+Player2: 2C 2H 2S 3C 3D 3S
+Player3: 2D
+Player3 asked Player2 for the value 2
+
+***** The Winner is: Player3 *****
+Number of turns: 18
+----------
+Initial State:
+Deck: KD KC 3H KS AC AH KH JC 5H QC QD
+Player1: 5C JD JH QH QS AD AS
+Player2: 2C 2H 2S 3C 3D 3S 4D
+Player3: 2D 4C 4H 4S 5D 5S JS
+----------
+Final State:
+Deck: 
+Player1: 3H
+Player2: 3C 3D 3S
+Player3: 

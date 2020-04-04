@@ -1,0 +1,25 @@
+
+Turn 1
+Deck: AS QD
+Player1: QC QH QS
+Player2: AC AD AH
+Player1 asked Player2 for the value Q
+
+Turn 2
+Deck: QD
+Player1: QC QH QS AS
+Player2: AC AD AH
+Player2 asked Player1 for the value A
+
+***** The winners are: Player1 and Player2 *****
+Number of turns: 2
+----------
+Initial State:
+Deck: AS QD
+Player1: JC JD JH JS QC QH QS
+Player2: KC KD KH KS AC AD AH
+----------
+Final State:
+Deck: 
+Player1: 
+Player2: 

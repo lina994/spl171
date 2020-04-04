@@ -1,0 +1,9 @@
+# Single step for player1 to win
+# Player1 choose player3 for J
+1
+5
+QS QD QH QC JS JH JD 2S 4D 2C 2H 3S 3D 3C JC 4S 2D 4C 4H 5S 5D KD KC 3H KS AC AH KH AD AS 5C 5H  
+Player1 1
+Player2 1
+Player3 1
+Player4 1

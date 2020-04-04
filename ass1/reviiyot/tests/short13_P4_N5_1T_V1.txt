@@ -1,0 +1,10 @@
+# Test strategy 1
+#Player1 choose player3 for Q
+#Check first 13 lines only, excluding empty lines
+1
+5
+QS AS 5C QH QC JH JD 2S 4D 2C 2H 3S 3D 3C QD 4S 2D 4C 4H 5S 5D KD KC 3H KS AC AH KH AD JS JC 5H  
+Player1 1
+Player2 2
+Player3 3
+Player4 4

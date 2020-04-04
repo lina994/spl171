@@ -1,0 +1,81 @@
+
+Turn 1
+Deck: AD JS JC 5H
+Player1: 5C JD JH QC QH QS AS
+Player2: 2C 2H 2S 3C 3D 3S 4D
+Player3: 2D 4C 4H 4S 5D 5S QD
+Player4: 3H AC AH
+Player1 asked Player3 for the value Q
+
+Turn 2
+Deck: JS JC 5H
+Player1: 5C JD JH AS
+Player2: 2C 2H 2S 3C 3D 3S 4D
+Player3: 2D 4C 4H 4S 5D 5S AD
+Player4: 3H AC AH
+Player2 asked Player3 for the value 4
+
+Turn 3
+Deck: 
+Player1: 5C JD JH AS
+Player2: 2C 2H 2S 3C 3D 3S
+Player3: 2D 5D 5H 5S JC JS AD
+Player4: 3H AC AH
+Player3 asked Player1 for the value A
+
+Turn 4
+Deck: 
+Player1: 5C JD JH
+Player2: 2C 2H 2S 3C 3D 3S
+Player3: 2D 5D 5H 5S JC JS AD AS
+Player4: 3H AC AH
+Player4 asked Player1 for the value 3
+
+Turn 5
+Deck: 
+Player1: 5C JD JH
+Player2: 2C 2H 2S 3C 3D 3S
+Player3: 2D 5D 5H 5S JC JS AD AS
+Player4: 3H AC AH
+Player1 asked Player3 for the value J
+
+Turn 6
+Deck: 
+Player1: 5C
+Player2: 2C 2H 2S 3C 3D 3S
+Player3: 2D 5D 5H 5S AD AS
+Player4: 3H AC AH
+Player2 asked Player3 for the value 2
+
+Turn 7
+Deck: 
+Player1: 5C
+Player2: 3C 3D 3S
+Player3: 5D 5H 5S AD AS
+Player4: 3H AC AH
+Player3 asked Player2 for the value A
+
+Turn 8
+Deck: 
+Player1: 5C
+Player2: 3C 3D 3S
+Player3: 5D 5H 5S AD AS
+Player4: 3H AC AH
+Player4 asked Player2 for the value 3
+
+***** The Winner is: Player2 *****
+Number of turns: 8
+----------
+Initial State:
+Deck: AD JS JC 5H
+Player1: 5C JD JH QC QH QS AS
+Player2: 2C 2H 2S 3C 3D 3S 4D
+Player3: 2D 4C 4H 4S 5D 5S QD
+Player4: 3H KC KD KH KS AC AH
+----------
+Final State:
+Deck: 
+Player1: 5C
+Player2: 
+Player3: 5D 5H 5S AD AS
+Player4: AC AH

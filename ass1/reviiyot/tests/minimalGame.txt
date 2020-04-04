@@ -1,0 +1,7 @@
+# Just figure card, 2 players
+# Both wins
+1
+1
+QS  QH QC JS JH JD JC KD KC KS AC AH KH AD AS QD 
+Player1 1
+Player2 2

@@ -1,0 +1,25 @@
+
+Turn 1
+Deck: 2S QD 5S 3S 6D 2D QS 7H 6C 3C AH AS 7S 3D 4D AC AD 2H 5D QH
+Player1: 2C 3H 4S 5C 6S 7D JD
+Player2: 4H 5H 6H
+Player3: 4C 7C QC
+Player4: JC JH JS
+Player1 asked Player4 for the value J
+
+***** The Winner is: Player4 *****
+Number of turns: 1
+----------
+Initial State:
+Deck: 2S QD 5S 3S 6D 2D QS 7H 6C 3C AH AS 7S 3D 4D AC AD 2H 5D QH
+Player1: 2C 3H 4S 5C 6S 7D JD
+Player2: 4H 5H 6H 8C 8D 8H 8S
+Player3: 4C 7C 9C 9D 9H 9S QC
+Player4: JC JH JS KC KD KH KS
+----------
+Final State:
+Deck: 2S QD 5S 3S 6D 2D QS 7H 6C 3C AH AS 7S 3D 4D AC AD 2H 5D QH
+Player1: 2C 3H 4S 5C 6S 7D
+Player2: 4H 5H 6H
+Player3: 4C 7C QC
+Player4: 
