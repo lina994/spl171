@@ -10,7 +10,7 @@ using namespace std;
 
 class Deck {
 private:
-  list <Card*>* deck;  // TODO: check if we need 2 pointers
+  list <Card*>* deck;
 
 public:
   Deck();                                // Constructor

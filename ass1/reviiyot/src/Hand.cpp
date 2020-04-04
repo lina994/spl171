@@ -14,7 +14,7 @@ Hand::Hand(const Hand &obj)
 }
 
 // Copy assignment operator
-Hand& Hand::operator= (const Hand &obj) {  // TODO
+Hand& Hand::operator= (const Hand &obj) {
   if (this != &obj) {
     for (list<Card*>::iterator it=hand.begin(); it!=hand.end(); it++) {
       delete *it;

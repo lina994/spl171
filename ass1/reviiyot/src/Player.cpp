@@ -15,7 +15,7 @@ Player::Player(string pName, int pPosition,int strategyType, vector<Player*> *pl
       deckAccess(&deck) {
 }
 
-// Copy Constructor TODO
+// Copy Constructor
 Player::Player(const Player& c)
     : Hand(c),
       name(c.name),
@@ -25,7 +25,7 @@ Player::Player(const Player& c)
       deckAccess(c.deckAccess) {
 }  
 
-// Copy assignment operator TODO
+// Copy assignment operator
 Player& Player::operator=(const Player& c) {
   if (this!=&c) {
     Hand::operator=(c);

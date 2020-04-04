@@ -52,7 +52,7 @@ public:
   int figureNumericalValue();
   int compareFigureCards(FigureCard& c);
   virtual string getCardType() override;
-  virtual string getValue() override;  // TODO
+  virtual string getValue() override;
   virtual string toString() override;
 };
 
@@ -68,7 +68,7 @@ public:
   
   int compareNumericCards(NumericCard& c);
   virtual string getCardType() override;
-  virtual string getValue() override;  // TODO
+  virtual string getValue() override;
   virtual string toString() override;
 };
 
